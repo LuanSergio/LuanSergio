@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="images/tag.png" width = "325px" align ="right">
+# Hello, I'm Luan Sergio! &nbsp;<img src="images/hi.gif" width="30px">
 
-<!--
-**LuanSergio/LuanSergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 &nbsp; Computer Science student
+- 👨‍💻 &nbsp; Currently working as a Junior Front end Developer at [NovaHaus](https://novahaus.com.br/)<br>
+- 📕 &nbsp; Trying to learn something new everyday
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ GitHub Stats ⚡            |  🤖 Languages 🤖
+:-------------------------:|:-------------------------:
+![LuanSergio's github stats](https://github-readme-stats.vercel.app/api?username=LuanSergio&hide=contribs,prs&show_icons=true&count_private=true&theme=tokyonight) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSergio&theme=tokyonight)
+
+
+
