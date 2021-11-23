@@ -8,7 +8,7 @@
 
 ⚡ GitHub Stats ⚡            |  🤖 Languages 🤖
 :-------------------------:|:-------------------------:
-![LuanSergio's github stats](https://github-readme-stats.vercel.app/api?username=LuanSergio&hide=contribs,prs&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=tru) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSergio&theme=tokyonight&bg_color=ffffff00&hide_border=tru)
+![LuanSergio's github stats](https://github-readme-stats.vercel.app/api?username=LuanSergio&hide=contribs,prs&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSergio&theme=tokyonight&bg_color=ffffff00&hide_border=true&layout=compact)
 
 
 
