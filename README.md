@@ -4,6 +4,7 @@
 - 👨‍🎓 &nbsp; Computer Science student <br>
 - 👨‍💻 &nbsp; Currently working as a Junior Front end Developer at [NovaHaus](https://novahaus.com.br/)<br>
 - 📕 &nbsp; Trying to learn something new everyday <br>
+- 💻 &nbsp; Focusing on typescript and react with next.js <br>
 <br><br>
 
 ⚡ GitHub Stats ⚡            |  🤖 Languages 🤖
